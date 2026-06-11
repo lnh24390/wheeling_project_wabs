@@ -1,0 +1,14 @@
+names:
+- empty_wheelchair
+- person
+- wheelchair_user
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: wheelchair-8dvrh
+  url: https://universe.roboflow.com/doorbotics-1kato/wheelchair-8dvrh/dataset/1
+  version: 1
+  workspace: doorbotics-1kato
+test: ../test/images
+train: ../train/images
+val: ../valid/images
